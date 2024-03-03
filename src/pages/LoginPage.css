@@ -40,9 +40,9 @@
   }
 }
 /* Set default background color for all elements */
-body {
+/* body {
   background-color: #F4EDFF;
-}
+} */
 
 /* Maintain #F4EDFF background for the "buttons" class */
 .buttons {
