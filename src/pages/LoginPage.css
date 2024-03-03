@@ -39,4 +39,25 @@
     transform: rotate(360deg);
   }
 }
+/* Set default background color for all elements */
+body {
+  background-color: #F4EDFF;
+}
 
+/* Maintain #F4EDFF background for the "buttons" class */
+.buttons {
+  background-color: #F4EDFF;
+} 
+
+/* Style input elements within "buttons" class */
+.buttons input {
+  background-color: white;
+  border-color: gray-400;
+}
+/* .start-bgcolour{
+  border-top-left-radius: 10%;
+  border-top-right-radius: 10%;
+  background-color: white;
+} */
+
+/* Your other styles... */
